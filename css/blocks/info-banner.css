@@ -1,0 +1,57 @@
+.info-banner {
+    display: flex;
+    width: 1230px;
+    height: 320px;
+    background-image: url("../../images/banner-img.jpg");
+    background-repeat: no-repeat;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    margin-bottom: 120px;
+    color: #FFFFFF;
+    padding: 85px 90px;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    gap: 297px;
+}
+
+.info-banner__title {
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+
+.info-banner__text {
+    margin: 0;
+    width: 460px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: right;
+    vertical-align: bottom;
+    color: rgba(255, 255, 255, 1);
+    padding-bottom: 30px;
+}
+
+.info-banner__inner {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.info-banner__link {
+    padding: 7px 74px;
+    border-radius: 40px;
+    background-color: rgba(214, 210, 196, 1);
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: rgba(29, 37, 45, 1);
+}
