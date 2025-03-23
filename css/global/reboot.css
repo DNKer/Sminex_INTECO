@@ -25,26 +25,3 @@ img {
   max-width: 100%;
   object-fit: cover;
 }
-
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-h1 {
-  font-weight: 200;
-  font-size: 60px;
-  line-height: 60px;
-  text-align: center;
-  text-transform: uppercase;
-  color: rgba(0, 0, 0, 1);
-}
-
-li {
-  list-style-type: none;
-}
-
-ul {
-  margin-left: 0; /* Отступ слева в браузере IE и Opera */
-  padding-left: 0; /* Отступ слева в браузере Firefox, Safari, Chrome */
-}
