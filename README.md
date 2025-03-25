@@ -1,0 +1,5 @@
+Учебный проект стилизации компонента баннера и блока преимуществ: элементов и сетки, включая модификации в блоке преимущества, а также оформление сетки внутри блока с баннером для сайта компании «Sminex-Интеко, согласно макета [Figma](https://www.figma.com/file/hS1IK7HLKpsaHdDZpy3O7J/Sminex---%D0%98%D0%9D%D0%A2%D0%95%D0%9A%D0%9E---%D0%94%D0%B5%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F?type=design&node-id=2-79&mode=design&t=Sq0Y49jRHgraicq5-4). Также подключены [локальные шрифты](/fonts/).
+
+## Необходимые инструменты
+* Макет [Figma](https://www.figma.com/file/hS1IK7HLKpsaHdDZpy3O7J/Sminex---%D0%98%D0%9D%D0%A2%D0%95%D0%9A%D0%9E---%D0%94%D0%B5%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F?type=design&node-id=2-79&mode=design&t=Sq0Y49jRHgraicq5-4).
+* Браузер Chrome последней версии.
